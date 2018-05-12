@@ -1,4 +1,8 @@
 _repo: Public-Speaking-Principles-and-Practice_6333
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Winter, Irvah Lester
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2002'
     url: http://www.gutenberg.org/2009/agents/2002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6333#Public-Speaking-Principles-and-Practice
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
